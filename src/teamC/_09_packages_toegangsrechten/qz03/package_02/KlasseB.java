@@ -1,11 +1,13 @@
 package teamC._09_packages_toegangsrechten.qz03.package_02;
 
+
 public class KlasseB
 {
+  //nu werkt het goed samen met KlasseA !!
   public int w = 1;
-  protected int x = 2;
-  int y = 3;
-  private int z = 4;
+  public int x = 2;
+  public int y = 3;
+  public int z = 4;
   
   public void mijnMethode()
   {
