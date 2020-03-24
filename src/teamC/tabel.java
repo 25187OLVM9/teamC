@@ -1,9 +1,18 @@
 package teamC;
 
 public class tabel {
+	
+	
+	public void arraymethode()
+	{
+		
+	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		tabel ar = new tabel();
+		
+		ar.arraymethode();
 
 	}
 
