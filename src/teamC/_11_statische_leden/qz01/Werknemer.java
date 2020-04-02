@@ -19,6 +19,9 @@ public class Werknemer
     System.out.print(Werknemer.stNr + ", ");
     System.out.print(wn1.nr + ", ");
     System.out.print(wn2.nr + ", ");
-    System.out.print(wn3.nr);
+    System.out.print(wn3.nr + ", ");
+    System.out.print(wn4.nr + ", ");
+    System.out.print(wn5.nr);
+    
   }
 }
