@@ -7,4 +7,7 @@ public class Superklasse
   {
     System.out.print(c);
   }
+  Superklasse(){
+	  System.out.print('Q');
+  }
 }
