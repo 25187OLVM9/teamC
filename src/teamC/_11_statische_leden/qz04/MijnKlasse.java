@@ -5,7 +5,7 @@ public class MijnKlasse
   static int x = 2;
   MijnKlasse()
   {
-    x += 4;
+    x ++;
   }
   static void methodeA(int i)
   {
