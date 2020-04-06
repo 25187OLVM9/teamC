@@ -9,6 +9,8 @@ public class Subklasse extends Superklasse
   public static void main(String[] args)
   {
     Subklasse sk = new Subklasse(4);
-    System.out.print(sk.x);
+    Subklasse sk2 = new Subklasse(6);
+    System.out.println(sk.x);
+    System.out.println(sk2.x);
   }
 }
