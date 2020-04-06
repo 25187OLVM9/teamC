@@ -2,8 +2,8 @@ package teamC._11_statische_leden.qz05;
 
 public class MijnKlasse
 {
-  static int x;
-  static StringBuffer sb = new StringBuffer();
+  int x;
+  StringBuffer sb = new StringBuffer();
   public MijnKlasse()
   {
     mijnMethode();
