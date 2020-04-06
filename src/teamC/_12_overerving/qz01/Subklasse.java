@@ -2,7 +2,7 @@ package teamC._12_overerving.qz01;
 
 public class Subklasse extends Superklasse
 {
-  private int y = 3;
+  private int y = 8;
   Subklasse()
   {
     x += 2;
