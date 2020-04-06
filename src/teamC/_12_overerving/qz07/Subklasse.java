@@ -4,7 +4,7 @@ public class Subklasse extends Superklasse
 {
   Subklasse(String naam)
   {
-    super(naam);
+    super("s");
     System.out.print(naam);
   }
   public static void main(String[] args)
