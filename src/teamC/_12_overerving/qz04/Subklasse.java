@@ -12,5 +12,6 @@ public class Subklasse extends SuperA
   public static void main(String[] args)
   {
     Subklasse subK = new Subklasse();
+    System.out.print(subK.x);
   }
 }
