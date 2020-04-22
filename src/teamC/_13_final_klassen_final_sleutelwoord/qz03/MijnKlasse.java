@@ -6,6 +6,8 @@ public class MijnKlasse extends Superklasse
   String methodeA(String s, int i)
   {
     String str = s + ", " + i;
+    //super.x ++; 
+    //gebeurt niks mee, want de int x in superklasse is al een final
     return str;
   }
   public static void main(String[] args)
