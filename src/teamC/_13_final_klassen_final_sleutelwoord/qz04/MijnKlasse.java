@@ -10,6 +10,6 @@ public final class MijnKlasse extends Superklasse
   public static void main(String[] args)
   {
     MijnKlasse mk = new MijnKlasse();
-    mk.methodeA(5, 3.0);
+    mk.methodeA(6, 4); //aangepast 
   }
 }
