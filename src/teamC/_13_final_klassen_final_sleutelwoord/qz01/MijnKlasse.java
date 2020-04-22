@@ -1,6 +1,6 @@
 package teamC._13_final_klassen_final_sleutelwoord.qz01;
 
-public class MijnKlasse
+public final class MijnKlasse
 {
   final int x = 3;
   int bereken(int y, int z)
@@ -25,3 +25,6 @@ public class MijnKlasse
     System.out.println(mk.bereken(4, 6));
   }
 }
+
+//MijnKlasse kan wel een Superklasse krijgen
+//MijnKlasse kan geen Subklasse krijgen
