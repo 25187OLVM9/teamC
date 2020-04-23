@@ -10,6 +10,6 @@ abstract class MijnAbstract
   }
   MijnAbstract(String str)
   {
-    str += str;
+    this.str += str;
   }
 }
