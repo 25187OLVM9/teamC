@@ -4,7 +4,8 @@ public abstract class MijnKlasseB
 {
 	MijnKlasseB()
 	{
-		abstract int bereken(int x, int y);
 		System.out.print("a");
+		
 	}
+	abstract int bereken(int x, int y);
 }

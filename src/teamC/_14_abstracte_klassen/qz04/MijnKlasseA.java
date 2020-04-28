@@ -10,4 +10,9 @@ public class MijnKlasseA extends MijnKlasseB
   {
     System.out.print("d" + i);
   }
+  bereken(int x, int y)
+  {
+    System.out.print("d" + x * y);
+    
+  }
 }

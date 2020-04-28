@@ -10,5 +10,6 @@ public class MijnKlasse extends MijnKlasseA
   {
     new MijnKlasse(4);
     new MijnKlasseA(4);
+    new MijnKlasseB(4);
   }
 }

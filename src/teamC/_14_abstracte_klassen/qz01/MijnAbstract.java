@@ -5,8 +5,8 @@ public abstract class MijnAbstract
   protected int x = 6;
   public MijnAbstract()
   {
-	  abstract printNaam(String naam);
-    x += 2;
+	  x += 2;
   }
+  abstract String printNaam(String naam);
   abstract int bereken(int x);
 }
