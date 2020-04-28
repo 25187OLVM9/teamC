@@ -23,6 +23,6 @@ public class MijnKlasse implements InterfaceA,InterfaceB
   public static void main(String[] args)
   {
     MijnKlasse mk = new MijnKlasse();
-    mk.mijnMethode('K');
+    mk.mijnMethode();
   }
 }
