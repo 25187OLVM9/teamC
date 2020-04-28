@@ -2,7 +2,8 @@ package teamC._15_interfaces.qz03;
 
 public class MijnKlasse extends Superklasse
 {
-  int x = 6;
+  //int x = 6;
+	//Foutmelding hij heeft de int nodig
   public void mijnMethode(String s)
   {
     mijnMethode();
