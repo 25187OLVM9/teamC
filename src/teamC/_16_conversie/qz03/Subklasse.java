@@ -11,6 +11,7 @@ public class Subklasse extends Superklasse
   public static void main(String[] args)
   {
     Superklasse s = new Subklasse();
+    Subklasse sk = s;
     System.out.print(" " + s.i);
     System.out.print(" " + s.methode());
   }
