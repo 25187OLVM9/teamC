@@ -23,5 +23,6 @@ public class MijnKlasse extends MijnAbstract
     MijnKlasse mk = new MijnKlasse();
     mk.methodeA();
     System.out.print(mk.methodeB("y"));
+    System.out.print(mk.vindPrijs(10));
   }
 }
