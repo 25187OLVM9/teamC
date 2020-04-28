@@ -16,6 +16,8 @@ public class MijnKlasse implements MijnInterface
   }
   public static void main(String[] args)
   {
+	  int x = 7;
+	  x ++;
     new MijnKlasse().methode(4);
   }
 }
