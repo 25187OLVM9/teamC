@@ -1,5 +1,6 @@
 package teamC._18_excepties.qz01;
 
+
 public class MijnKlasse
 {
   public void methode()
@@ -7,7 +8,7 @@ public class MijnKlasse
     try
     {
       System.out.print("x");
-      int x = Integer.parseInt("hi");
+      int x = Integer.parseInt("38");
       System.out.print("y");
     }
     catch (NumberFormatException e)
@@ -21,3 +22,8 @@ public class MijnKlasse
     mk.methode();
   }
 }
+
+ 
+
+
+

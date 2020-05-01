@@ -1,8 +1,10 @@
 package teamC._18_excepties.qz03;
 
+ 
+
 public class MijnKlasse
 {
-  String str;
+  String str = "boris";
   public void methode()
   {
     try

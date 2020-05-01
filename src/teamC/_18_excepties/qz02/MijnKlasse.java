@@ -1,5 +1,5 @@
 package teamC._18_excepties.qz02;
-
+ 
 public class MijnKlasse
 {
   public void methode()
@@ -18,10 +18,7 @@ public class MijnKlasse
     {
       System.out.print("y");
     }
-    finally
-    {
-      System.out.print("z");
-    }
+    
   }
   public static void main(String[] args)
   {
