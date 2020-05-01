@@ -1,8 +1,10 @@
 package teamC._18_excepties.qz04;
 
+ 
+
 public class MijnKlasse
 {
-  int x;
+  int x = 20;
   public void methode()
   {
     try
@@ -29,3 +31,4 @@ public class MijnKlasse
     mk.methode();
   }
 }
+ 

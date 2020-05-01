@@ -1,5 +1,7 @@
 package teamC._18_excepties.qz06;
 
+ 
+
 public class MijnKlasse
 {
   static String str = "";
@@ -8,7 +10,7 @@ public class MijnKlasse
     str += "A";
     if (y == 0)
     {
-      throw new ArithmeticException();
+      throw new ArrayIndexOutOfBoundsException();
     }
     int z = x / y;
     str += "B";
@@ -32,3 +34,4 @@ public class MijnKlasse
     System.out.println(str);
   }
 }
+ 

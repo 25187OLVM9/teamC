@@ -1,5 +1,7 @@
 package teamC._18_excepties.qz05;
 
+ 
+
 public class MijnKlasse
 {
   StringBuffer sb;
@@ -8,8 +10,8 @@ public class MijnKlasse
   {
     try
     {
-      z = 5 / 0;
       sb.append("s");
+      z = 5 / 0;
     }
     catch (NullPointerException e)
     {
@@ -26,3 +28,4 @@ public class MijnKlasse
     mk.mijnMethode();
   }
 }
+ 

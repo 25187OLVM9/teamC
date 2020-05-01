@@ -1,4 +1,6 @@
+   
 package teamC._18_excepties.qz07;
+
 
 public class MijnKlasse
 {
@@ -18,7 +20,7 @@ public class MijnKlasse
     try
     {
       System.out.print("A");
-      test("");
+      test(null);
     }
     catch (NullPointerException e)
     {
@@ -34,3 +36,7 @@ public class MijnKlasse
     }
   }
 }
+ 
+
+
+
