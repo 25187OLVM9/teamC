@@ -8,7 +8,7 @@ public class Subklasse extends Superklasse
   }
   public static void main(String[] args)
   {
-    Superklasse superK = new Subklasse();
+    Superklasse superK = new Superklasse();
     superK.methode(3);
   }
 }
