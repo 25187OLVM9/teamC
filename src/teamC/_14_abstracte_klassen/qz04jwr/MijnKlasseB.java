@@ -1,4 +1,4 @@
-package _14_abstracte_klassen.qz04;
+package teamC._14_abstracte_klassen.qz04jwr;
 
 public abstract class MijnKlasseB
 {

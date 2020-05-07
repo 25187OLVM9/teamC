@@ -18,6 +18,6 @@ public class MijnKlasse extends MijnAbstract
   {
     MijnKlasse mk = new MijnKlasse();
     System.out.println(mk.bereken(4));
-    mk.printNaam("Emma");
+    mk.printNaam("Piet");
   }
 }
