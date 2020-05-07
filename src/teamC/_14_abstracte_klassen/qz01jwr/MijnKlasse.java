@@ -1,4 +1,4 @@
-package _14_abstracte_klassen.qz01;
+package teamC._14_abstracte_klassen.qz01jwr;
 
 public class MijnKlasse extends MijnAbstract
 {
